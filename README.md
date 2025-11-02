@@ -1,5 +1,5 @@
 # Assignment 4 - Graph Algorithms for Smart City Planning
-### 1. Executive Summary
+### 1. Overview
 
 This report presents the implementation and analysis of three core graph algorithms for Smart City task scheduling:
 - **Tarjan's SCC Algorithm** - for detecting strongly connected components and building condensation graphs
@@ -10,7 +10,7 @@ The main were conducted on 18 datasets (9 sparse, 9 dense) with varying sizes (6
 
 ---
 
-### 2. Dataset Summary
+### 2. Dataset overview
 
 #### 2.1 Dataset Categories
 
